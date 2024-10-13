@@ -15,6 +15,8 @@ Approach:
     Test if income is dependent on education.
     Analyze spending patterns across income levels and marital status.
     Test if lower-income customers are more likely to accept campaigns.
+
+    
 Expectations:
   Gain insights into factors affecting user purchases.
   Validate hypotheses using statistical tests.
